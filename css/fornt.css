@@ -1,0 +1,17 @@
+
+.textarea{
+    padding: 12%;
+    padding-top: 20%;
+} 
+.uText{
+    color:#000b; 
+    font-size: 7vw !important;
+    text-align: center;
+    font-family: 'Gloria Hallelujah', cursive !important;
+    font-weight: bolder;
+    transform: rotate(-4deg);
+    background-color: transparent;
+}
+.uText::placeholder{
+    color: #0007;
+}

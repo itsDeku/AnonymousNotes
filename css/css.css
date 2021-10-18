@@ -1,0 +1,98 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+#bottom-footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+body {
+    background-image: url("https://yourbuddyxyz.000webhostapp.com/HCfU2.jpg") ,url("HCfU1.png");
+   
+    height: 700px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat, repeat; /* Do not repeat the image */
+    background-size: auto;; /* Resize the background image to cover the entire container */
+    }
+
+
+.container{
+    display: grid;
+    width: 100%;
+    z-index: 2;
+    font-family: 'Indie Flower', cursive;
+}
+.parent, .container2{
+    grid-column: 1;
+    grid-row: 1;
+}
+.container2{
+    width: 100%;
+    height: 400px;
+    z-index: 3;
+}
+.textarea{
+    padding:20% ;
+}
+.draw{
+    padding: 20%;
+}
+.textarea textarea{
+    border: none;
+    outline: none;
+    resize: none;
+    font-size:4vw;
+    font-family: 'Gloria Hallelujah', cursive;
+
+    /*font-family: 'Liu Jian Mao Cao', cursive;*/
+}
+.notes-btn {
+    font-family: 'Permanent Marker', cursive;
+}
+.notes-btn-fixed{
+    left:10%;
+}
+.notes-btn-clear{
+    right: 1%;
+}
+.notes-btn-post{
+   right: 3%;
+}
+.btn-prev{
+    left:0%;
+}
+.btn-next{
+    left: 0%;
+}
+.box-shadow {
+    box-shadow: 0 16px 24px 2px rgba(0, 0, 0, 0.22), 0 6px 30px 5px rgba(0, 0, 0, 0.25), 0 8px 10px -5px rgba(0, 0, 0, 0.30)
+}
+.notes-btn-nex{
+    float: right;
+}
+
+.uText{
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Old versions of Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+             supported by Chrome, Opera and Firefox */
+}
+.noselect {
+    cursor: default;
+    -webkit-user-select: none;
+    -webkit-touch-callout: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+ }
+ 
+ .noselect:focus {
+    outline: none;
+ }

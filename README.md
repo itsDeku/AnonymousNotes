@@ -1,5 +1,7 @@
 # AnonymousNotes
-AnonymousNotes is platform where user can create a notebook and share its link to people where they can write and draw anything Anonymously
+AnonymousNotes is platform where user can create a notebook and share its link to people where they can write and draw anything Anonymously.
+<br/>
+<a href="https://yourbuddyxyz.000webhostapp.com/">Check AnonymousNotes Site.</a>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/70664666/139024063-16c92ef8-7b87-43fc-8b7e-ab9b68b090e6.png" width="50%" height="50%" />

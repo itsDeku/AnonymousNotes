@@ -1,10 +1,14 @@
 # AnonymousNotes
 AnonymousNotes is platform where user can create a notebook and share its link to people where they can write and draw anything Anonymously
 
-![Screenshot_20210206-161723]()
-![Screenshot_20210206-161755](https://user-images.githubusercontent.com/70664666/139023262-c217ff9d-f217-477b-9305-baf2f5755624.png)
-![Screenshot_20210206-161811](https://user-images.githubusercontent.com/70664666/139023264-4c5abbfb-d102-428b-b85f-5db2899fc860.png)
-![Screenshot_20210206-161833](https://user-images.githubusercontent.com/70664666/139023274-557e5b38-1880-4bc9-9adc-b6434de89b94.png)
-![Screenshot_20210206-161917](https://user-images.githubusercontent.com/70664666/139023276-2378c348-193e-4666-9348-94b559c11e65.png)
-![Screenshot_20210206-162017](https://user-images.githubusercontent.com/70664666/139023279-ade7e8c2-cf5b-48b0-b13a-60115f29860f.png)
-![Screenshot_20210206-161718](https://user-images.githubusercontent.com/70664666/139023283-bb9cea44-5b1b-44e9-b60c-0cf4bd1d4363.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/70664666/139024063-16c92ef8-7b87-43fc-8b7e-ab9b68b090e6.png" width="50%" height="50%" />
+</p>
+
+![Screenshot_20210206-161718]()
+![Screenshot_20210206-161723](https://user-images.githubusercontent.com/70664666/139024077-e11f42d5-9d26-4eb7-b8ec-003c02b45e01.png)
+![Screenshot_20210206-161755](https://user-images.githubusercontent.com/70664666/139024082-c48e74ec-a518-45cf-9192-69bc37efa6e7.png)
+![Screenshot_20210206-161811](https://user-images.githubusercontent.com/70664666/139024084-6f334bf9-d759-4d28-a237-5a151a562b9f.png)
+![Screenshot_20210206-161833](https://user-images.githubusercontent.com/70664666/139024092-398fb057-de9f-4b4c-b176-f9a725f90f19.png)
+![Screenshot_20210206-161917](https://user-images.githubusercontent.com/70664666/139024096-e96e88c0-d522-41a7-a2b6-df1fffc6c402.png)
+![Screenshot_20210206-162017](https://user-images.githubusercontent.com/70664666/139024100-102e5340-693c-4747-8f7d-d9e35d3c0f4d.png)

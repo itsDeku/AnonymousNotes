@@ -1,13 +1,7 @@
 # AnonymousNotes
 AnonymousNotes is platform where user can create a notebook and share its link to people where they can write and draw anything Anonymously
 <p align="center">
-  <img scr="https://user-images.githubusercontent.com/70664666/139023246-30b5443a-de10-4b74-9836-3acbc4bdc82c.png" hieght="50%" width="50%"/>  
-</p>
-<p align="center">
-  <img scr="" hieght="50%" width+"50%"/>  
-</p>
-<p align="center">
-  <img scr="" hieght="50%" width+"50%"/>  
+  <img src="https://user-images.githubusercontent.com/70664666/137780491-0e4dca85-9c0f-4216-8b11-fd7f850f7360.png" width="50%" height="50%" />
 </p>
 ![Screenshot_20210206-161723]()
 ![Screenshot_20210206-161755](https://user-images.githubusercontent.com/70664666/139023262-c217ff9d-f217-477b-9305-baf2f5755624.png)
